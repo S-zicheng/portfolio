@@ -4,7 +4,7 @@
 <template>
   <section class="hero">
     <div class="hero-content">
-      <h1 class="hero-name">你的名字</h1>
+      <h1 class="hero-name">舍子成</h1>
       <p class="hero-title">前端开发者 / 设计师</p>
       <p class="hero-tagline">用代码创造有温度的体验</p>
       <div class="hero-actions">
