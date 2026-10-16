@@ -2,6 +2,7 @@
 import HeroSection from './components/HeroSection.vue'
 import AboutSection from './components/AboutSection.vue'
 import ProjectsSection from './components/ProjectsSection.vue'
+import ReportDemoSection from './components/ReportDemoSection.vue'
 import SkillsSection from './components/SkillsSection.vue'
 import ContactSection from './components/ContactSection.vue'
 import SiteFooter from './components/SiteFooter.vue'
@@ -12,6 +13,7 @@ import SiteFooter from './components/SiteFooter.vue'
     <HeroSection />
     <AboutSection />
     <ProjectsSection />
+    <ReportDemoSection />
     <SkillsSection />
     <ContactSection />
     <SiteFooter />
