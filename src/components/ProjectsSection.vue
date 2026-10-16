@@ -7,21 +7,21 @@ const projects = [
     link: '#report-demo'
   },
   {
-    title: '项目二',
-    desc: '响应式电商平台，支持商品浏览、购物车、订单管理和在线支付集成。',
-    tags: ['React', 'Node.js', 'PostgreSQL'],
+    title: '后台管理系统',
+    desc: '企业级后台管理系统，提供用户管理、角色权限、数据统计与系统配置等功能，支持多角色协作。',
+    tags: ['Vue 3', 'Element Plus', 'Pinia', 'ECharts'],
     link: '#'
   },
   {
-    title: '项目三',
-    desc: '移动端优先的社交应用，实现朋友圈动态、即时通讯和个人主页功能。',
-    tags: ['Vue', 'Firebase', 'Sass'],
+    title: '数据可视化大屏',
+    desc: '基于 ECharts 与 DataV 的数据可视化大屏，实时展示核心业务指标、趋势图表与区域分布，支持动态刷新。',
+    tags: ['Vue 2', 'ECharts', 'DataV', 'Vuex'],
     link: '#'
   },
   {
-    title: '项目四',
-    desc: '数据仪表盘工具，可视化展示业务指标，支持自定义报表和实时数据刷新。',
-    tags: ['D3.js', 'Express', 'MongoDB'],
+    title: '微信点单小程序',
+    desc: '微信小程序线上点单系统，支持扫码点单、购物车、订单管理与在线支付。',
+    tags: ['微信小程序', 'uni-app', '云开发'],
     link: '#'
   }
 ]
