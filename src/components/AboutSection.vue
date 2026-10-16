@@ -25,10 +25,6 @@
             <span class="stat-number">20+</span>
             <span class="stat-label">项目</span>
           </div>
-          <div class="stat">
-            <span class="stat-number">10+</span>
-            <span class="stat-label">客户</span>
-          </div>
         </div>
       </div>
     </div>
