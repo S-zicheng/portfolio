@@ -22,6 +22,7 @@ import SiteFooter from '../components/SiteFooter.vue'
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  height: 100%;
 }
 
 .demo-main {
