@@ -26,6 +26,7 @@ import SiteFooter from '../components/SiteFooter.vue'
 
 .demo-main {
   flex: 1 0 auto;
+  height: 100%;
 }
 
 .demo-nav {
