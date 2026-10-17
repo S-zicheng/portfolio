@@ -10,7 +10,9 @@ import SiteFooter from '../components/SiteFooter.vue'
         <router-link to="/" class="back-link">返回首页</router-link>
       </div>
     </nav>
-    <ReportDemoSection />
+    <main class="demo-main">
+      <ReportDemoSection />
+    </main>
     <SiteFooter />
   </div>
 </template>
@@ -18,6 +20,12 @@ import SiteFooter from '../components/SiteFooter.vue'
 <style scoped>
 .report-demo-page {
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.demo-main {
+  flex: 1 0 auto;
 }
 
 .demo-nav {
